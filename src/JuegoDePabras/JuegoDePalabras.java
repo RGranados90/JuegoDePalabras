@@ -37,7 +37,7 @@ import java.io.InputStreamReader;
  * 0
  * 25
  * 14
- *
+ *cambios realizados
  * @author Granados
  */
 public class JuegoDePalabras {
